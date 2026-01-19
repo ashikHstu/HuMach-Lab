@@ -1,0 +1,158 @@
+/* Custom styles for HuMach Research Lab website */
+
+/* Dark theme overrides */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #1e1e1e !important;
+    border-bottom: 1px solid #333;
+}
+
+.navbar-brand {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #00bcd4 !important;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #00bcd4;
+    border-color: #00bcd4;
+}
+
+.btn-primary:hover {
+    background-color: #0097a7;
+    border-color: #0097a7;
+}
+
+/* Splash screen */
+#splash-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.5s ease-out;
+}
+
+#splash-logo {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+/* Home page */
+#home {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%), url('https://via.placeholder.com/1920x1080/1e3c72/2a5298?text=HuMach+Lab+Background');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#home .overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 50px;
+    border-radius: 10px;
+    max-width: 800px;
+}
+
+#home h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+#home p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+/* Publications */
+.publication-card {
+    margin-bottom: 20px;
+}
+
+.publication-card .card-body {
+    padding: 20px;
+}
+
+.publication-card h5 {
+    color: #00bcd4;
+}
+
+/* Members */
+.member-card {
+    margin-bottom: 30px;
+}
+
+.member-card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+/* Research Scopes */
+.scope-card {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.scope-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.scope-card .card-body {
+    padding: 20px;
+}
+
+/* Contact */
+#contact {
+    padding: 50px 0;
+}
+
+#contact .card {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    #home h1 {
+        font-size: 2rem;
+    }
+
+    #home p {
+        font-size: 1rem;
+    }
+
+    .navbar-brand img {
+        width: 30px;
+        height: 30px;
+    }
+}

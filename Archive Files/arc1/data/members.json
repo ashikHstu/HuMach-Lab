@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Dr. Ashik Ahmed",
+    "image": "https://via.placeholder.com/150x150/00bcd4/ffffff?text=AA",
+    "education": "PhD in Computer Science, University of Dhaka",
+    "email": "ashik@hstu.ac.bd",
+    "researchInterest": "Natural Language Processing, Generative AI, Biomedical Signal Processing",
+    "portfolioLink": "https://scholar.google.com/citations?user=ashik"
+  },
+  {
+    "name": "Jane Doe",
+    "image": "https://via.placeholder.com/150x150/00bcd4/ffffff?text=JD",
+    "education": "MS in Biomedical Engineering, MIT",
+    "email": "jane@humachlab.com",
+    "researchInterest": "Medical Signal Processing, AI in Healthcare",
+    "portfolioLink": "https://linkedin.com/in/janedoe"
+  },
+  {
+    "name": "John Smith",
+    "image": "https://via.placeholder.com/150x150/00bcd4/ffffff?text=JS",
+    "education": "PhD in AI, Stanford University",
+    "email": "john@humachlab.com",
+    "researchInterest": "Agentic AI, Computer Science Research",
+    "portfolioLink": "https://github.com/johnsmith"
+  },
+  {
+    "name": "Alice Johnson",
+    "image": "https://via.placeholder.com/150x150/00bcd4/ffffff?text=AJ",
+    "education": "BS in Computer Science, Harvard University",
+    "email": "alice@humachlab.com",
+    "researchInterest": "Generative AI, Research in Medical Applications",
+    "portfolioLink": "https://researchgate.net/profile/alicejohnson"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Advancements in Natural Language Processing for Biomedical Applications",
+    "authors": ["Dr. Ashik Ahmed", "Jane Doe", "John Smith"],
+    "publisher": "IEEE Transactions on Biomedical Engineering",
+    "link": "https://doi.org/10.1109/TBME.2023.1234567"
+  },
+  {
+    "title": "Signal Processing Techniques in Medical Diagnostics",
+    "authors": ["Dr. Ashik Ahmed", "Alice Johnson"],
+    "publisher": "Journal of Biomedical Signal Processing",
+    "link": "https://doi.org/10.1016/j.bsp.2022.987654"
+  },
+  {
+    "title": "Generative AI Models for Automated Research Summarization",
+    "authors": ["Dr. Ashik Ahmed", "Bob Wilson", "Carol Brown"],
+    "publisher": "Nature Machine Intelligence",
+    "link": "https://doi.org/10.1038/s42256-024-00123"
+  },
+  {
+    "title": "Agentic AI in Healthcare Decision Support Systems",
+    "authors": ["Dr. Ashik Ahmed"],
+    "publisher": "AI in Medicine",
+    "link": "https://doi.org/10.1001/aimed.2023.456789"
+  },
+  {
+    "title": "Computer Science Approaches to Big Data in Medical Research",
+    "authors": ["Dr. Ashik Ahmed", "Diana Lee", "Edward Kim"],
+    "publisher": "Computer Methods and Programs in Biomedicine",
+    "link": "https://doi.org/10.1016/j.cmpb.2021.106543"
+  }
+]
