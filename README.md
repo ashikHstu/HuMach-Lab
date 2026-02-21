@@ -1,6 +1,7 @@
 ﻿# HuMach-Lab Ongoing website.
 
- Current link: https://ashikhstu.github.io/HuMach-Lab/
+ previous link: https://ashikhstu.github.io/HuMach-Lab/
 
- Will update soon to: research.humachlab.com
+ Will updated to: https://research.humachlab.com
+
 
